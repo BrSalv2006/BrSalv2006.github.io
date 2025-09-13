@@ -2,5 +2,4 @@ User-agent: *
 User-agent: AdsBot
 Allow: /
 
-
 Sitemap: https://brsalv2006.me/sitemap.xml
